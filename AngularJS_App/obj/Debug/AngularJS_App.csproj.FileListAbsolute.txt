@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\AngularJS_App\AngularJS_App\bin\AngularJS_App.dll.config
+c:\users\dell\documents\visual studio 2013\Projects\AngularJS_App\AngularJS_App\bin\AngularJS_App.dll
+c:\users\dell\documents\visual studio 2013\Projects\AngularJS_App\AngularJS_App\bin\AngularJS_App.pdb
+c:\users\dell\documents\visual studio 2013\Projects\AngularJS_App\AngularJS_App\obj\Debug\AngularJS_App.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\AngularJS_App\AngularJS_App\obj\Debug\AngularJS_App.dll
+c:\users\dell\documents\visual studio 2013\Projects\AngularJS_App\AngularJS_App\obj\Debug\AngularJS_App.pdb
