@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<staff_menu>
+		<list>	
+			<department>IT</department>
+			<name>Leon Lai</name>
+			<title>Director</title>
+		</list>
+		<list>
+			<department>HR</department>
+			<name>Arron Kwok</name>
+			<title>Supervisor</title>
+		</list>
+		<list>
+			<department>Sales</department>
+			<name>Sammi Cheng</name>
+			<title>Manager</title>
+		</list>
+	</staff_menu>
